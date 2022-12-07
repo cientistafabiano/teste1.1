@@ -1,2 +1,2 @@
 streamlit
-scipy
+scipy.stats
