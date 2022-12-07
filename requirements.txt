@@ -1,0 +1,4 @@
+streamlit==1.15.1
+scipy==1.9.1
+poisson==1.9.1
+openpyxl==3.0.1
